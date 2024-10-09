@@ -1,0 +1,14 @@
+Title: Recommender Systems for 1M movie dataset.
+Dataset: MovieLens 1M Dataset (https://grouplens.org/datasets/movielens/1m/)
+Project Owner: Masoumeh Ghorbani
+
+Tasks:
+1. Load dataset
+2. EDA
+3. Create the user-item matrix
+4. Content-based model
+5. User-user collaborative 
+6. Item-item collaborative
+7. SVD model
+8. ALS model
+9. Combine models 
